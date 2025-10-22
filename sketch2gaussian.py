@@ -84,7 +84,7 @@ Troubleshooting:
 - No .mol files found: Check your input folder contains .mol files
 - Bond lengths still wrong: RDKit should fix this - check your source .mol files
 
-Author: wintercherry6 and DeepSeek
+Author: Jenny G. Vitillo (University of Insubria) and DeepSeek
 License: MIT
 """
 
