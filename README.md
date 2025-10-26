@@ -9,9 +9,9 @@ your_folder/
 
 └── gjf_files_rdkit/ # Created automatically
 
-├── molecule1.gjf         # Gaussian input
+  ├── molecule1.gjf         # Gaussian input
 
-└── molecule2.gjf
+  └── molecule2.gjf
 This project is licensed under the MIT License (see the LICENSE file for details).
 
 Questo script converte strutture molecolari 2D provenienti da ChemDraw (file .mol) in strutture 3D con lunghezze di legame e geometrie realistiche. Ho scelto come formato di output i file di input per Gaussian 16 (.gjf), poiché è un programma ampiamente utilizzato per i calcoli di meccanica quantistica. Tuttavia, le coordinate XYZ generate possono essere facilmente riutilizzate per creare manualmente un file .xyz tramite copia e incolla. Aggiunge automaticamente tutti gli atomi di idrogeno, quindi le strutture possono avere gli idrogeni impliciti! Utilizza un approccio ibrido che combina Open Babel per la conversione in SMILES e l’algoritmo ETKDG di RDKit per la generazione accurata delle coordinate 3D. Le istruzioni per utenti Windows alle prime armi con Python sono riportate all’inizio del file. Struttura finale della cartella:
@@ -24,9 +24,9 @@ cartella_originaria/
 
 └── gjf_files_rdkit/ # Created automatically
 
-├── molecule1.gjf         # Gaussian input
+  ├── molecule1.gjf         # Gaussian input
 
-└── molecule2.gjf
+  └── molecule2.gjf
 Questo progetto ha licenza MIT (vedi il file LICENSE per dettagli).
 
 **Cite it as:
