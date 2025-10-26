@@ -24,9 +24,9 @@ cartella_originaria/
 
 └── gjf_files_rdkit/ # Created automatically
 
-  ├── molecule1.gjf         # Gaussian input
+     ├── molecule1.gjf         # Gaussian input
 
-  └── molecule2.gjf
+     └── molecule2.gjf
 Questo progetto ha licenza MIT (vedi il file LICENSE per dettagli).
 
 **Cite it as:
