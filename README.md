@@ -28,3 +28,6 @@ cartella_originaria/
 
 └── molecule2.gjf
 Questo progetto ha licenza MIT (vedi il file LICENSE per dettagli).
+
+**Cite it as:
+J. G. Vitillo, "sketch2gaussian", https://github.com/jennygvitillo/sketch2gaussian (2025).**
