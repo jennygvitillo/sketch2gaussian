@@ -84,8 +84,20 @@ Troubleshooting:
 - No .mol files found: Check your input folder contains .mol files
 - Bond lengths still wrong: RDKit should fix this - check your source .mol files
 
-Author: Jenny G. Vitillo (University of Insubria) and DeepSeek
-License: MIT
+Author:
+---------
+Jenny G. Vitillo (University of Insubria) and DeepSeek 2024
+
+
+License:
+---------
+MIT
+
+
+Citation:
+---------
+J.G. Vitillo, sketch2gaussian, https://github.com/jennygvitillo/sketch2gaussian (2025).
+
 """
 
 import os
