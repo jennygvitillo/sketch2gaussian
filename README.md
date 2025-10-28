@@ -29,13 +29,13 @@ for the other users: like all the other Python tools.
 - **Standard Computational Parameters**: Pre-configured with B3LYP/def2-TZVP and common options
 - **Automatic Hydrogen Addition**: Complete molecular structures ready for calculation
 
-input_folder/
+ ``` input_folder/
 ├── molecule1.mol
 ├── molecule2.mol
 └── gjf_files_rdkit/ # Created automatically
 ├── molecule1.gjf # Gaussian input with 3D coordinates
 └── molecule2.gjf # Includes SMILES: C=Cc1ccccc1
-
+ ``` 
 
 ## Citation
 J.G. Vitillo, 'sketch2gaussian', https://github.com/jennygvitillo/sketch2gaussian (2025).
