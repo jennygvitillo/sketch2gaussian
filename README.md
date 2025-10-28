@@ -32,9 +32,9 @@ for the other users: like all the other Python tools.
 input_folder/
 ├── molecule1.mol
 ├── molecule2.mol
-└── gjf_files_rdkit/          # Created automatically
-    ├── molecule1.gjf         # Gaussian input with 3D coordinates
-    └── molecule2.gjf         # Includes SMILES: C=Cc1ccccc1
+└── gjf_files_rdkit/ # Created automatically
+├── molecule1.gjf # Gaussian input with 3D coordinates
+└── molecule2.gjf # Includes SMILES: C=Cc1ccccc1
 
 
 ## Citation
